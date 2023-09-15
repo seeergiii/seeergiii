@@ -1,4 +1,4 @@
-<h2>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Sergi</a></h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Hey, I'm Sergi</a></h2>
 
 <p> Data enthusiast with a passion for turning data into actionable insights and facilitate data-driven decision-making. I enjoy working on data analysis, machine learning, and data warehousing. I'm always eager to explore new tools and technologies in the ever-evolving world of data.</p>
 
