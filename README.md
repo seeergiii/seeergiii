@@ -1,6 +1,6 @@
 <h2>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Sergi</a></h2>
 
-<p>Data enthusiast.</p>
+<p> Data enthusiast with a passion for turning data into actionable insights and facilitate data-driven decision-making. I enjoy working on data analysis, machine learning, and data warehousing. I'm always eager to explore new tools and technologies in the ever-evolving world of data.</p>
 
 
 <p align="left">
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sergibusquets/"><img src="https://img.shields.io/badge/LinkedIn-sergibusquets-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsergibusquets%2F" alt="LinkedIn badge"></a>
 </p>
 
-<h2>🚀 Some Tools I Enjoy Using</h2>
+<h2>🚀 My Toolkit</h2>
 <p align="left">
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
